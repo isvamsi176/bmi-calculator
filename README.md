@@ -17,7 +17,8 @@ The system calculates BMI using the standard formula and classifies it into pred
 
 ---
 def images
-<img width="537" height="917" alt="image" src="https://github.com/user-attachments/assets/e961887d-4397-4525-a5c7-53150b20170a" />
+<img width="521" height="912" alt="image" src="https://github.com/user-attachments/assets/48f0da81-58d8-485d-b7f7-b0c3b8c6e824" />
+
 
 
 ## 🎯 Objectives
