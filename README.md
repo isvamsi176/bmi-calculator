@@ -71,4 +71,8 @@ Height entered in centimeters is automatically converted into meters.
 ---
 
 ## 📂 Project Structure
-
+BMI_Calculator_Project/
+│
+├── bmi_calculator.py
+├── bmi_records.txt
+└── README.md
