@@ -1,0 +1,40 @@
+
+Format:
+
+Date | Name | Phone | Age | Gender | BMI | Category
+
+---
+
+## 🧠 Concepts Demonstrated
+
+- GUI Programming
+- Event-driven programming
+- Input validation
+- Conditional statements
+- File handling
+- Exception handling
+
+---
+
+## 🔮 Future Enhancements
+
+- Database integration (SQLite)
+- BMI history tracking
+- Graphical BMI visualization
+- Email/SMS API integration
+- Mobile app version
+- Dark mode interface
+
+---
+
+## 👨‍💻 Author
+
+Shanmukh Vamsi  
+B.Tech – Computer Science & Data Science  
+Mohan Babu University  
+
+---
+
+## 📜 License
+
+This project is developed for educational and academic purposes only.
