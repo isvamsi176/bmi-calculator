@@ -16,6 +16,9 @@ The application allows users to enter personal details such as:
 The system calculates BMI using the standard formula and classifies it into predefined health categories. All user records are stored locally for reference.
 
 ---
+def images
+<img width="537" height="917" alt="image" src="https://github.com/user-attachments/assets/e961887d-4397-4525-a5c7-53150b20170a" />
+
 
 ## 🎯 Objectives
 
